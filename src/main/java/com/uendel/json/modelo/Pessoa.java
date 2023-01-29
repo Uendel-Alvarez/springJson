@@ -1,7 +1,5 @@
 package com.uendel.json.modelo;
 
-import java.util.Objects;
-
 public class Pessoa {
 
 	private String Nome;
